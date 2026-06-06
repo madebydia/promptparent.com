@@ -1,6 +1,6 @@
 # promptparent.com
 
-Landing page for [parent-dev-devcontainer](https://github.com/meimakes/parent-dev-devcontainer) — a portable, secure dev environment for parents who code in stolen minutes.
+Landing page for [parent-dev-devcontainer](https://github.com/madebydia/parent-dev-devcontainer) — a portable, secure dev environment for parents who code in stolen minutes.
 
 **Live:** [promptparent.com](https://promptparent.com)
 
@@ -12,4 +12,4 @@ Static single-page site hosted on GitHub Pages.
 
 MIT
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)

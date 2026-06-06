@@ -2,7 +2,7 @@
 
 > A portable, secure devcontainer for parents who code in 15-minute windows.
 
-Built by [@meimakes](https://x.com/meimakes) — also writes [The Undercurrent](https://theundercurrent.dev), a newsletter on dev tools and workflows.
+Built by [@madebydia](https://x.com/madebydia) — also writes [The Undercurrent](https://theundercurrent.dev), a newsletter on dev tools and workflows.
 
 ## What This Is
 
@@ -20,10 +20,10 @@ Parents who code in stolen minutes can't spend 12 of those minutes on setup. Thi
 
 ## Source
 
-- [GitHub: meimakes/parent-dev-devcontainer](https://github.com/meimakes/parent-dev-devcontainer)
+- [GitHub: madebydia/parent-dev-devcontainer](https://github.com/madebydia/parent-dev-devcontainer)
 
 ## Related
 
 - [The Undercurrent](https://theundercurrent.dev) — Newsletter on dev tools and workflows
 - [Raising Pixels](https://raisingpixels.dev) — Newsletter on raising tech-native kids
-- [meimakes.com](https://meimakes.com) — Author's hub
+- [madebydia.com](https://madebydia.com) — Author's hub
